@@ -6,8 +6,8 @@ void main() {
     MaterialApp(
       home: Scaffold(
         body: GradientContainer(
-          color1: Colors.purple,
-          color2: Colors.purple.shade200,
+          color1: Colors.purple.shade700,
+          color2: Colors.purple,
         ),
       ),
     ),
